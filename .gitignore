@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# generated cmake files
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles/
